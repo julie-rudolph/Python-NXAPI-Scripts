@@ -7,7 +7,7 @@ SWITCH,IP ADDR,REVERSE DNS RESULTS,MAC ADDRESS,PHYSICAL INT,INTERFACE DESCRIPT,L
 
 # findhost.py
 1. Ask user for an ip address to search for.
-2. Search the provided list of switches to find the arp entry for the host.  The list of switches is hardcoded into the script. 
+2. Search the provided list of Nexus switches to find the arp entry for the host.  The list of switches is hardcoded into the script. 
 3. Find the mac address entry.
 4. Find the interface(s) the host is connected to.
 5. Print out current interface config.
